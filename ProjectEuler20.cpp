@@ -37,9 +37,5 @@ string adder(string a, string b){
 }
 
 int main(){
-	string a;
-	string b;
-	cin >> a;
-	cin >> b;
-	cout << adder(a, b) << endl;
+	// THIS IS THE NEW MAIN FROM BRANDON
 }
