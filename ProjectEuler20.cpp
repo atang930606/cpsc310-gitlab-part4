@@ -41,4 +41,6 @@ int main(){
 	// BRANDON BRANDON BRANDON
 	// ALEX ALEX ALEX
 	// FINAL CONFLICT PLEASE WORK!
+	public static void main string args hello
+	git should not be able to merge this without conflict resolution!
 }
