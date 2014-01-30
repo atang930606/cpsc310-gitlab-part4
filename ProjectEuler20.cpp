@@ -38,6 +38,6 @@ string adder(string a, string b){
 
 int main(){
 	// THIS IS THE NEW MAIN FROM BRANDON
-	// BRANDON BRANDON BRANDON
-	// ALEX ALEX ALEX
+	public static void main string args hello
+	git should not be able to merge this without conflict resolution!
 }
